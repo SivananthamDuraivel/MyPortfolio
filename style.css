@@ -279,6 +279,11 @@ section {
 }
 
 /* ABOUT SECTION */
+@media only screen and (max-width: 1000px) {
+  .about-only {
+    margin-top: -11vh;
+  }
+}
 
 #about {
   position: relative;
